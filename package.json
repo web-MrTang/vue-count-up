@@ -1,13 +1,16 @@
 {
-  "name": "count",
+  "name": "b-count-up",
   "description": "vue-count",
   "version": "1.0.0",
-  "author": "Billy",
+  "author": "tang-fe",
   "license": "MIT",
-  "private": true,
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --open --hot",
     "build": "cross-env NODE_ENV=production webpack --progress --hide-modules"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:web-MrTang/vue-count-up.git"
   },
   "dependencies": {
     "countup.js": "^2.0.8",

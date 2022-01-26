@@ -1,6 +1,6 @@
 # count
 
-> A Vue.js project
+> vue-count-up
 
 ## Build Setup
 
